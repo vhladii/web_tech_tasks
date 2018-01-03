@@ -1,0 +1,59 @@
+body {
+	background-color: #e6ecff;
+	font-family: Arial, sans-serif;
+	margin-top: 0;
+	margin-left: 100px;
+	margin-right: 100px;
+	border: 1px solid #002699;
+}
+nav {
+	width: 100%;
+}
+
+ul.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #80b3ff;
+	font-size: 30px;	
+
+}
+
+li.menu-item {
+    float: left;
+}
+
+li.menu-item a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.menu-item a:hover {
+    background-color: #005ce6;
+}
+
+.content {
+	margin: 20px;
+	font-size: 20px;
+}
+
+.task-content {
+	background-color: #b3c6ff;
+	margin: 20px;
+	border: 3px solid #0000ff;
+	padding: 5px;
+}
+
+.task-header {
+	text-decoration: underline;
+}
+
+.code-area {
+	width: 50%;
+	border: 1px solid black;
+	font-family: "Lucida Console", monospace;
+	resize: vertical;
+}
