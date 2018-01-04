@@ -1,9 +1,7 @@
 body {
 	background-color: #e6ecff;
 	font-family: Arial, sans-serif;
-	margin-top: 0;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin: 0 10% 0 10%;
 	border: 1px solid #002699;
 }
 nav {
@@ -16,7 +14,7 @@ ul.menu {
     padding: 0;
     overflow: hidden;
     background-color: #80b3ff;
-	font-size: 30px;	
+	font-size: 30px;
 
 }
 
