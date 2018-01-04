@@ -1,1 +1,1 @@
-# web_tech_tasks
+# Web technologies tasks
